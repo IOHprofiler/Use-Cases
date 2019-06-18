@@ -1,0 +1,14 @@
+CEC full papers:
+Furong Ye, Carola Doerr, and Thomas Bäck. Interpolating Local and Global Search by Controlling the Variance of Standard Bit Mutation. CEC’19 [Wednesday, 5:00 pm in Special Session CEC-21: Theory of Bio-Inspired Computation]
+
+GECCO full papers:
+Carola Doerr, Furong Ye, Sander van Rijn, Hao Wang, Thomas Bäck. Towards a theory-guided benchmarking suite for discrete black-box optimization heuristics: profiling (1 + λ) EA variants on OneMax and LeadingOnes. GECCO’18
+Naama Horesh, Thomas Bäck, Ofer M. Shir. Predict or Screen Your Expensive Assay? DoE vs. Surrogates in Experimental Combinatorial Optimization. GECCO’19
+Nguyen Dang, Carola Doerr. Hyper-Parameter Tuning for the (1+(λ, λ)) GA. GECCO’19
+
+GECCO workshop papers:
+Carola Doerr, Furong Ye, Naama Horesh, Hao Wang, Ofer M. Shir, and Thomas Bäck. Benchmarking Discrete Optimization Heuristics with IOHprofiler. GECCO’19
+Borja Calvo, Ofer M. Shir, Josu Ceberio, Carola Doerr, Hao Wang, Thomas Bäck, and Jose A. Lozano. Bayesian Performance Analysis for Black-Box Optimization Benchmarking. GECCO’19
+Ivan Ignashov, Arina Buzdalova, Maxim Buzdalov, and Carola Doerr. Illustrating the Trade-Off between Time, Quality, and Success Probability in Heuristic Search. GECCO’19
+Nathan Buskulic and Carola Doerr. Maximizing Drift is Not Optimal for Solving OneMax. GECCO’19
+
